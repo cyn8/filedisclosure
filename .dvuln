@@ -2,3 +2,6 @@ version: 0.1
 dvSECRETS:
  custom_include_regex:
  - rekt: '[\s\S]*'
+ironSAST:
+ php:
+  scan_level: "4"
